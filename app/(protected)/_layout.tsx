@@ -31,5 +31,5 @@ export default function App() {
     return <Text>Loading...</Text>;
   }
 
-  return <Slot />;
+  return <Stack />;
 }
